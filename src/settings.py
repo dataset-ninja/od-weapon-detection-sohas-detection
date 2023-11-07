@@ -64,6 +64,9 @@ AUTHORS: Optional[List[str]] = [
     "Hamido Fujita",
     "Francisco Herrera",
     ]
+AUTHORS_CONTACTS: Optional[List[str]] = ["fperezhernandez@ugr.es"]
+
+
 
 ORGANIZATION_NAME: Optional[Union[str, List[str]]] = ["University of Granada, Spain", "Ho Chi Minh City University of Technology (HUTECH), Viet Nam", "King Abdulaziz University (KAU) Jeddah, Saudi Arabia"]
 ORGANIZATION_URL: Optional[Union[str, List[str]]] = ["http://www.ugr.es/en", "https://www.hutech.edu.vn/english","https://www.kau.edu.sa/home_english.aspx"]
@@ -117,6 +120,7 @@ def get_settings():
     settings["repository"] = REPOSITORY
     settings["citation_url"] = CITATION_URL
     settings["authors"] = AUTHORS
+    settings["authors_contacts"] = AUTHORS_CONTACTS
     settings["organization_name"] = ORGANIZATION_NAME
     settings["organization_url"] = ORGANIZATION_URL
     settings["slytagsplit"] = SLYTAGSPLIT
