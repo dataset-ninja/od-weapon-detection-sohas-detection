@@ -64,7 +64,7 @@ AUTHORS: Optional[List[str]] = [
     "Hamido Fujita",
     "Francisco Herrera",
     ]
-AUTHORS_CONTACTS: Optional[List[str]] = ["fperezhernandez@ugr.es"]
+AUTHORS_CONTACTS: Optional[List[str]] = ["fperezhernandez92@gmail.com", "fperezhernandez@ugr.es", "alcasla90@gmail.com", "albertocl@ugr.es"]
 
 
 
