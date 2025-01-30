@@ -1,6 +1,6 @@
 Dataset **OD-WeaponDetection: Sohas Detection** can be downloaded in [Supervisely format](https://developer.supervisely.com/api-references/supervisely-annotation-json-format):
 
- [Download](https://www.dropbox.com/scl/fi/6slukubbroh8r68ez4o59/od-weapondetection-sohas-detection-DatasetNinja.tar?rlkey=sf1nuzx28r6pmrfaiajv2w3tz&dl=1)
+ [Download](https://assets.supervisely.com/remote/eyJsaW5rIjogImZzOi8vYXNzZXRzLzI4MTBfT0QtV2VhcG9uRGV0ZWN0aW9uOiBTb2hhcyBEZXRlY3Rpb24vb2Qtd2VhcG9uZGV0ZWN0aW9uOi1zb2hhcy1kZXRlY3Rpb24tRGF0YXNldE5pbmphLnRhciIsICJzaWciOiAiTEVCTGtLSDduM056M0tBMDE1MTNOUXRsNHk2a2xJZW1Ca0hIVjRrb1NyRT0ifQ==)
 
 As an alternative, it can be downloaded with *dataset-tools* package:
 ``` bash
